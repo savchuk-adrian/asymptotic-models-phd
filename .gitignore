@@ -1,0 +1,29 @@
+# OS 
+.DS_Store
+
+# Environments
+.conda/
+.env
+.venv
+env/
+venv/
+venv_*/
+conda-env/
+
+# Python
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data and logs 
+data/
+outputs/
+*.log
